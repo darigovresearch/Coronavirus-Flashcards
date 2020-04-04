@@ -70,6 +70,10 @@ You can request a language via an issue request with the following title `[lang-
 10. Appendix - Flashcards FAQs
 11. Appendix - Coronavirus FAQs
 12. Appendix - Corrections
+
+Other terms
+1. Coronavirus Flashcards
+2. Introduction
 ```
 
 Supplying the new language translation of all the chapter titles means that we can create the corresponding folder structure & to make it easier for you to just translate the content. In the future we hope to have code to auto generate the file structure for you but this is currently work in progress.
