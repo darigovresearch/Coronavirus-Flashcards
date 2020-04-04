@@ -1,7 +1,6 @@
 # Contributing
 To make this project extensible as far into the future as possible we are following certain rules which will also make it possible to programmatically pull the data.
 
-## Contributing
 Pull requests, corrections & fixes are welcome. Any contributions must be submitted under the same license that the original piece of work (see below). Take a look at any open issues or submit new ones if there is something that needs to be fixed or added.
 
 ## Folder and Filename conventions
