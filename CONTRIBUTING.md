@@ -11,7 +11,7 @@ Every language should be saved in a folder called `lang-code` for example `[fr]`
 The latter is for the output .apkg files after having imported and exported the .csv files via Anki.
 
 **Each chapter name .csv file has five parts to it:**
-1. Corona Virus Flashcards
+1. Coronavirus Flashcards
 2. fr
 3. Français
 4. Chapter X
@@ -19,7 +19,7 @@ The latter is for the output .apkg files after having imported and exported the 
 6. .csv
 
 **Explanation**
-1. is literally `Corona Virus Flashcards` translated into the language that the flashcards are in,
+1. is literally `Coronavirus Flashcards` translated into the language that the flashcards are in,
 2. is the language code for the given language,
 3. the full language name translated in the given language
 4. is "Chapter X" is "Chapter" translated into the language followed by the chapter number (1, 2, 3 etc),
@@ -27,7 +27,7 @@ The latter is for the output .apkg files after having imported and exported the 
 6. is the extension file to make it readable by the correct text editors & other computer programs (here it is a csv file)
 
 **Each chapter name .apkg file has eight parts to it:**
-1. Corona Virus Flashcards
+1. Coronavirus Flashcards
 2. fr
 3. Français
 4. (Darigov Decks)
@@ -36,7 +36,7 @@ The latter is for the output .apkg files after having imported and exported the 
 7. .apkg
 
 **Explanation**
-1. is literally `Corona Virus Flashcards` translated into the language that the flashcards are in,
+1. is literally `Coronavirus Flashcards` translated into the language that the flashcards are in,
 2. is the language code for the given language,
 3. the full language name translated in the given language
 4. a way to designate that the Anki Flashcards comes from a larger body of work (Darigov Decks, see our other works),
@@ -68,7 +68,7 @@ You can request a language via an issue request with the following title `[lang-
 8. Sociology
 9. Academia
 10. Appendix - Flashcards FAQs
-11. Appendix - Corona Virus FAQs
+11. Appendix - Coronavirus FAQs
 12. Appendix - Corrections
 ```
 
@@ -79,7 +79,7 @@ Each file has one row for each word or phrase separated by a `|` where the text 
 
 The first card of the main deck contains an introductory card. It is very important as if it is not visible the user will not know where they can find updates, corrections and improvements to the flashcards.
 
-Please work from the first to the last section for consistency when translating into a new language as it also means that some can learn using your translation before having all the sections. However translating the Glossary of terms, Flashcard FAQs & Corona Virus FAQs would probably provide the most help from the start.
+Please work from the first to the last section for consistency when translating into a new language as it also means that some can learn using your translation before having all the sections. However translating the Glossary of terms, Flashcard FAQs & Coronavirus FAQs would probably provide the most help from the start.
 
 ## Steps for submitting a new translation
 The general process for porting existing translations to make a new language is the following:

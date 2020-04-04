@@ -1,13 +1,13 @@
-# Corona-Virus-Flashcards
+# Coronavirus-Flashcards
 A centralised location to learn about topics not just to do with this Pandemic but also future outbreaks. Community driven!
 
 ## Introduction
-This repository is the source code for the educational material of the Corona Virus Flashcards and which is in a form which can be easily learnt/revised using <a href="https://apps.ankiweb.net/">Anki</a> a cross platform app.
+This repository is the source code for the educational material of the Coronavirus Flashcards and which is in a form which can be easily learnt/revised using <a href="https://apps.ankiweb.net/">Anki</a> a cross platform app.
 
 ## Notes
 Please note the following
-1. Every card has "(Corona Virus Flashcards)" appended to the end so that if you have any other virology related topics in your collection, our version will still be added when importing it.
-2. Any updates, translations or corrections to the deck will be available at <a href="https://github.com/darigovresearch/Corona-Virus-Flashcards">https://github.com/darigovresearch/Corona-Virus-Flashcards</a> so do return periodically to check if you have the latest version.
+1. Every card has "(Coronavirus Flashcards)" appended to the end so that if you have any other virology related topics in your collection, our version will still be added when importing it.
+2. Any updates, translations or corrections to the deck will be available at <a href="https://github.com/darigovresearch/Coronavirus-Flashcards">https://github.com/darigovresearch/Coronavirus-Flashcards</a> so do return periodically to check if you have the latest version.
 
 Feel free to share the deck and give the repository a star so more people can get the most out of it.
 
