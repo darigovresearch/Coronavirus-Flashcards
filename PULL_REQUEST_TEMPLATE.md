@@ -1,4 +1,5 @@
 - [ ] I confirm that all the content in this pull request is original work and I am the original author
+  - [ ] If any content has been taken from other sources I have checked that it is compatible with the license of this repository and I have credited them
 - [ ] I have nothing that prevents me from submitting this work (like a clause in a work contract)
 - [ ] Pull request title is prepended with `[lang-code]`
 - [ ] I understand that the work I am submitting will be released under the terms of the licence of this repository
