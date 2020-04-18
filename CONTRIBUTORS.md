@@ -8,4 +8,6 @@ Language list in alphabetical order of language code
 
 ### en English
 
+### es Español
+
 ### ru Русский
