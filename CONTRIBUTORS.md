@@ -9,5 +9,6 @@ Language list in alphabetical order of language code
 ### en English
 
 ### es Español
+  - [@MarthaPinilla](https://github.com/MarthaPinilla): Translation of content some of Chapter 1 & 11 into Spanish
 
 ### ru Русский
