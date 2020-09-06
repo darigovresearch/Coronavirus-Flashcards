@@ -14,6 +14,8 @@ Feel free to share the deck and give the repository a star so more people can ge
 ## Usage
 If you want to just learn the words, download <a href="https://apps.ankiweb.net/">Anki</a> on your device of choice and open the .apkg file to add it into your collection. If you wish to build the deck from scratch you will need to import the .csv file via the desktop with HTML enabled and the separator to be `|`.
 
+Watch our video on an Introduction to Anki for a complete overeview -> [https://www.youtube.com/watch?v=Dji_h7PILrw](https://www.youtube.com/watch?v=Dji_h7PILrw)
+
 ## Contributing
 Pull requests, corrections & fixes are welcome. Any contributions must be submitted under the same license that the original piece of work  (see below). Take a look at any open issues or submit new ones if there is something that needs to be fixed or added.
 
