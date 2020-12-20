@@ -3,6 +3,8 @@ To make this project extensible as far into the future as possible we are follow
 
 Pull requests, corrections & fixes are welcome. Any contributions must be submitted under the same license that the original piece of work (see below). Take a look at any open issues or submit new ones if there is something that needs to be fixed or added.
 
+Watch our video on how to contribute to open source for a complete overview -> [https://www.youtube.com/watch?v=UWA4wyacY2A](https://www.youtube.com/watch?v=UWA4wyacY2A)
+
 ## Folder and Filename conventions
 Every language should be saved in a folder called `lang-code` for example `[fr]` for French. In each folder you save
 - .csv source files for each chapter
