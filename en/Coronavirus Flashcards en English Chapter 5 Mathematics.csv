@@ -1,11 +1,11 @@
 Introduction to Chapter 5 Mathematics (Coronavirus Flashcards)|This chapter contains content to do with the mathematics of viruses and epidemiology
-Why is Mathematical Modelling so important? (Coronavirus Flashcards)|TODO
+Why is Mathematical Modelling so important? (Coronavirus Flashcards)|It is another way to find potential solutions with little to no resources
 What are the common mathematical models for epidemics? (Coronavirus Flashcards)|TODO
 What is the SIR Model? (Coronavirus Flashcards)|TODO
 What are some common modifications to the SIR model? (Coronavirus Flashcards)|TODO
 What is the difference between a Agent-based models (ABM) and compartmental models? (Coronavirus Flashcards)|TODO
-What is the difference between a Stochastic and Deterministic Model? (Coronavirus Flashcards)|TODO
+What is the difference between a Stochastic and Deterministic Model? (Coronavirus Flashcards)|A Stochastic model has some randomness explicitly designed into the model where a Deterministic model will always have the same output if given the same inputs
 How can mathematical modelling be used to help model the effects of vaccination on a population? (Coronavirus Flashcards)|TODO
-Why do assumptions play a crucial role in the mathematical modelling of the spread of a disease? (Coronavirus Flashcards)|TODO
+Why do assumptions play a crucial role in the mathematical modelling of the spread of a disease? (Coronavirus Flashcards)|Assumptions are usually the foundation of any model so if any of the assumptions are incorrect or not appropriate it will mean that some or all of the results may not be valid to draw conclusions from
 What can we learn, even from overly simplistic, mathematical models of the spread of diseases? (Coronavirus Flashcards)|TODO
 What are the benefits of computational based models? (Coronavirus Flashcards)|TODO
