@@ -5,7 +5,7 @@ What is the SIR Model? (Coronavirus Flashcards)|TODO
 What are some common modifications to the SIR model? (Coronavirus Flashcards)|TODO
 What is the difference between a Agent-based models (ABM) and compartmental models? (Coronavirus Flashcards)|TODO
 What is the difference between a Stochastic and Deterministic Model? (Coronavirus Flashcards)|A Stochastic model has some randomness explicitly designed into the model where a Deterministic model will always have the same output if given the same inputs
-How can mathematical modelling be used to help model the effects of vaccination on a population? (Coronavirus Flashcards)|TODO
+How can mathematical modelling be used to help model the effects of vaccination on a population? (Coronavirus Flashcards)|It can help mathematically test different roll-out strategies to maximise use of the vaccine
 Why do assumptions play a crucial role in the mathematical modelling of the spread of a disease? (Coronavirus Flashcards)|Assumptions are usually the foundation of any model so if any of the assumptions are incorrect or not appropriate it will mean that some or all of the results may not be valid to draw conclusions from
 What can we learn, even from overly simplistic, mathematical models of the spread of diseases? (Coronavirus Flashcards)|TODO
-What are the benefits of computational based models? (Coronavirus Flashcards)|TODO
+What are the benefits of computational based models? (Coronavirus Flashcards)|You're able to test various assumptions empirically in parallel to computationally brute force best parameters for a model
