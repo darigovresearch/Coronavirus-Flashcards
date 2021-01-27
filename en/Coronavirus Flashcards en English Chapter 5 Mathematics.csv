@@ -3,7 +3,7 @@ Why is Mathematical Modelling so important? (Coronavirus Flashcards)|It is anoth
 What are the common mathematical models for epidemics? (Coronavirus Flashcards)|TODO
 What is the SIR Model? (Coronavirus Flashcards)|TODO
 What are some common modifications to the SIR model? (Coronavirus Flashcards)|TODO
-What is the difference between a Agent-based models (ABM) and compartmental models? (Coronavirus Flashcards)|TODO
+What is the difference between a Agent-based models (ABM) and compartmental models? (Coronavirus Flashcards)|An agent based model is a type of compartmental model where each person/organisation is an autonomous unit, where compartmental models more generally are when a population is split into different compartments where people can transition between compartments
 What is the difference between a Stochastic and Deterministic Model? (Coronavirus Flashcards)|A Stochastic model has some randomness explicitly designed into the model where a Deterministic model will always have the same output if given the same inputs
 How can mathematical modelling be used to help model the effects of vaccination on a population? (Coronavirus Flashcards)|It can help mathematically test different roll-out strategies to maximise use of the vaccine
 Why do assumptions play a crucial role in the mathematical modelling of the spread of a disease? (Coronavirus Flashcards)|Assumptions are usually the foundation of any model so if any of the assumptions are incorrect or not appropriate it will mean that some or all of the results may not be valid to draw conclusions from
