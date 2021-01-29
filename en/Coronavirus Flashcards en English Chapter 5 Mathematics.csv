@@ -1,7 +1,7 @@
 Introduction to Chapter 5 Mathematics (Coronavirus Flashcards)|This chapter contains content to do with the mathematics of viruses and epidemiology
 Why is Mathematical Modelling so important? (Coronavirus Flashcards)|It is another way to find potential solutions with little to no resources
 What are the common mathematical models for epidemics? (Coronavirus Flashcards)|TODO
-What is the SIR Model? (Coronavirus Flashcards)|TODO
+What is the SIR Model? (Coronavirus Flashcards)|It's a compartmental model which splits the population into 3 compartments with specific formulae for how the population can change between different compartments; Susceptible (the part of the population who can catch the infection but haven't yet), Infected and Removed (can mean recovered or are now deceased so are no longer in the model)
 What are some common modifications to the SIR model? (Coronavirus Flashcards)|TODO
 What is the difference between a Agent-based models (ABM) and compartmental models? (Coronavirus Flashcards)|An agent based model is a type of compartmental model where each person/organisation is an autonomous unit, where compartmental models more generally are when a population is split into different compartments where people can transition between compartments
 What is the difference between a Stochastic and Deterministic Model? (Coronavirus Flashcards)|A Stochastic model has some randomness explicitly designed into the model where a Deterministic model will always have the same output if given the same inputs
